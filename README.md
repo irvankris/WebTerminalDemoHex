@@ -1,7 +1,11 @@
 # WebTerminalDemoHex
 
 
-for send and revice hex
+for send and revice bytes to serial device, on hex-form, using Web Serial API
+
+this is my youtube demo:
+
+https://youtu.be/yaoWiBcLSQU
 
 
 
