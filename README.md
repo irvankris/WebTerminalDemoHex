@@ -1,4 +1,9 @@
-# WebTerminalDemo
+# WebTerminalDemoHex
+
+
+for send and revice hex
+
+
 
 This is a simple demo of the [Web Serial API](https://web.dev/serial/) which implements a bare-bones serial terminal.
 
